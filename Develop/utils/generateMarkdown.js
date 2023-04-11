@@ -44,11 +44,11 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [Description](#description)
-  * [Installation](#installition)
+  * [Installation](#installation)
   * [Usage](#usage)
   * ${renderLicenseLink(data.license)}
   * [Contributing](#contributing)
-  * [Testing](#testing)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Description 

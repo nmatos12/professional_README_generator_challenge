@@ -4,24 +4,24 @@
 
   ## Table of Contents
   * [Description](#description)
-  * [Installation](#installition)
+  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Testing](#testing)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Description 
   
-  This application generates a professional readme based on user input
+  This application generates a professional README based on user input
 
   ## Installation
   
-  Node.js, npm inquirer
+  Node.js and NPM Inquirer
 
   ## Usage
   
-  JavaScript, JSON, Markdown
+  JavaScript and Markdown
 
   ## License
   
