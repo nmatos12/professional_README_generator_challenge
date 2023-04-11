@@ -18,7 +18,7 @@ Links below provide a functionality of webpage.
 
 [Demo]()
 
-![Image showing functionality of the README generator](assets/images/README_generator.png)
+![Image showing functionality of the README generator](Develop/assets/images/README_generator.png)
 
 ## Credits
 
