@@ -22,7 +22,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
     if (license !== 'No license') {
-        return `\n [License](#license)\n`;
+        return `[License](#license)`;
     }
     return '';
 }
@@ -46,13 +46,11 @@ function generateMarkdown(data) {
   * [Description](#description)
   * [Installation](#installition)
   * [Usage](#usage)
-  * [License](#license)
+  * ${renderLicenseLink(data.license)}
   * [Contributing](#contributing)
   * [Testing](#testing)
   * [Questions](#questions)
   
-  ${renderLicenseLink(data.license)}
-
   ## Description 
   
   ${data.description}
@@ -67,7 +65,7 @@ function generateMarkdown(data) {
 
   ## License
   
-  ${renderLicenseSection(data)}
+  ${renderLicenseSection(data.license)}
 
   ## Contributing
   
@@ -82,8 +80,9 @@ function generateMarkdown(data) {
   ### Contact Me
   
   If you have any questions please reach me at the following:
-  - GitHub: [${userName}](https://github.com/${userName})
-  - Email: ${email}
+  - Email: ${data.email}
+  - GitHub: [${data.username}](https://github.com/${data.username})
+  
 `;
 }
 
