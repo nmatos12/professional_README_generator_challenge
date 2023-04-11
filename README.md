@@ -17,7 +17,8 @@ JavaScript, JSON, Markdown
 Links below provide a functionality of webpage.
 
 [Demo]()
-![Image showing functionality of the README generator](assets/images/)
+
+![Image showing functionality of the README generator](assets/images/README_generator.png)
 
 ## Credits
 
@@ -29,7 +30,7 @@ Rutger University: https://git.bootcampcontent.com/Rutgers-University/RUT-VIRT-F
 - [Instuctor Videos: JD Tadlock](https://gist.github.com/jdtdesigns/9cfe05400063902e46aa5f6faabff0ca)
 
 Tutoring on 4/10/23 with John Murphy:
-- Helped with getting fixing code and getting npm inquirer to work.
+- Helped with debugging code and getting npm inquirer to work.
 
 ## License
 
