@@ -16,7 +16,9 @@ JavaScript, JSON, Markdown
 
 Links below provide a functionality of webpage.
 
-[Demo]()
+[Screencastify Demo](https://watch.screencastify.com/v/lx2pH57mCo5BPJdp916V)
+
+[MP4 Download Demo](Develop/assets/videos/README_generator_demo.mp4)
 
 ![Image showing functionality of the README generator](Develop/assets/images/README_generator.png)
 
